@@ -1,8 +1,8 @@
-# Offline English Dictionary — Privacy Policy
+# Sekirov Offline Dictionary — Privacy Policy
 
-Effective date: September 15, 2026
+Effective date: September 17, 2026
 
-Offline English Dictionary ("the app") is published on Google Play by the developer Offline English Dictionary.
+Sekirov Offline Dictionary ("the app") is published on Google Play by the developer Offline English Dictionary.
 
 **The app does not collect personal data.** It has no account, no ads, no analytics and no tracking, and it does not share or sell any data.
 
