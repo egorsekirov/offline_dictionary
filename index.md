@@ -1,6 +1,6 @@
 # Sekirov Offline Dictionary — Privacy Policy
 
-Effective date: September 22, 2026
+Effective date: October 2, 2026
 
 Sekirov Offline Dictionary ("the app") is published on Google Play by the developer Offline English Dictionary.
 
@@ -15,6 +15,8 @@ Sekirov Offline Dictionary ("the app") is published on Google Play by the develo
 **Pronunciation.** To say a word aloud, the app passes it to the text-to-speech engine installed on your phone. That engine is a separate app with its own privacy policy.
 
 **Google Play.** The app is installed and updated by Google Play. Google may collect information about installs, and, if you allowed your device to share diagnostics with Google, crash reports, under Google's own privacy policy. The developer sees only the aggregated statistics and crash reports that Google Play Console provides.
+
+**Installs from GitHub.** The same app is also published as an APK on its GitHub release page (https://github.com/egorsekirov/offline_dictionary/releases), signed with the same Google Play key. If you installed it from there, Google Play did not install it. Because the app has no internet access, it cannot tell you about a new version: to update, install the newer APK from that page over the one you have. Everything else in this policy applies unchanged.
 
 **Children.** The app is not directed at children under 13.
 
